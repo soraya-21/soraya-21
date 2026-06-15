@@ -1,6 +1,6 @@
 <!-- TITRE ANIMÉ (EFFET MACHINE À ÉCRIRE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Salut+%21+Moi+c'est+Alexia+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Développeuse+Backend+%26+Data+Analyst;Spécialisée+en+IA+%26+Data+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Salut+!+Moi+c'est+Soraya;Developpeuse+Backend+%26+Data+Analyst;Specialisee+en+IA+%26+Data+Management" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,29 +46,24 @@
 
 <p align="center">
   <!-- Cartes de Stats Globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soraya-21&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub" width="48%" />
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=tokyonight" alt="Top Langages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraya-21&layout=compact&theme=tokyonight" alt="Top Langages" width="48%" />
 </p>
 
 <p align="center">
   <!-- Métriques de Contributions Consécutives (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_PSEUDO_GITHUB&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soraya-21&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-<!-- MÉTRIQUES DU REPO / REPO CARDS (Optionnel pour mettre un projet en avant) -->
 ## 📂 Projet Phare
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_PSEUDO_GITHUB&repo=NOM_DE_TON_REPO_CHATBOT&theme=tokyonight" alt="Project Card" />
-</p>
 
 ---
 
 ## 📬 Me contacter
 
 <p align="left">
-  <a href="https://linkedin.com/in/VOTRE_PROFIL_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:VOTRE_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sorayacodo4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
