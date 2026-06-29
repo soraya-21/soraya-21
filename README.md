@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Hi,+I'm+Soraya;Backend+%26+AI+Engineer;Python+%7C+Machine+Learning+%7C+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=2D6A4F&center=true&vCenter=true&width=700&lines=Hi,+I'm+Soraya;Backend+%26+AI+Engineer;Python+%7C+Machine+Learning+%7C+Data" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,28 +23,28 @@ Also, I love digging into history, reading about human behavior and personal gro
 ## Technical Stack
 
 ### Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-BD93F9?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-6272A4?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-44475A?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-8BE9FD?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-FF79C6?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D6A4F?style=for-the-badge&logo=python&logoColor=F5E6C8)
+![Django](https://img.shields.io/badge/Django-1B4332?style=for-the-badge&logo=django&logoColor=F5E6C8)
+![Flask](https://img.shields.io/badge/Flask-F5E6C8?style=for-the-badge&logo=flask&logoColor=1B4332)
+![NodeJS](https://img.shields.io/badge/Node.js-2D6A4F?style=for-the-badge&logo=nodedotjs&logoColor=F5E6C8)
+![ReactJS](https://img.shields.io/badge/React-F5E6C8?style=for-the-badge&logo=react&logoColor=1B4332)
 
 ### Data & AI
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-FFB86C?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F1FA8C?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-BD93F9?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFB86C?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-6272A4?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1B4332?style=for-the-badge&logo=scikit-learn&logoColor=F5E6C8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F5E6C8?style=for-the-badge&logo=huggingface&logoColor=1B4332)
+![LangChain](https://img.shields.io/badge/LangChain-2D6A4F?style=for-the-badge&logoColor=F5E6C8)
+![Power BI](https://img.shields.io/badge/Power%20BI-F5E6C8?style=for-the-badge&logo=powerbi&logoColor=1B4332)
+![Pandas](https://img.shields.io/badge/Pandas-1B4332?style=for-the-badge&logo=pandas&logoColor=F5E6C8)
 
 ### Cloud, DevOps & Observability
-![Azure](https://img.shields.io/badge/Azure-8BE9FD?style=for-the-badge&logo=microsoftazure&logoColor=black)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FF5555?style=for-the-badge&logo=argo&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-FFB86C?style=for-the-badge&logo=grafana&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-8BE9FD?style=for-the-badge&logo=docker&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-2D6A4F?style=for-the-badge&logo=microsoftazure&logoColor=F5E6C8)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-F5E6C8?style=for-the-badge&logo=argo&logoColor=1B4332)
+![Grafana](https://img.shields.io/badge/Grafana-1B4332?style=for-the-badge&logo=grafana&logoColor=F5E6C8)
+![Docker](https://img.shields.io/badge/Docker-2D6A4F?style=for-the-badge&logo=docker&logoColor=F5E6C8)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BD93F9?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-50FA7B?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5E6C8?style=for-the-badge&logo=postgresql&logoColor=1B4332)
+![MongoDB](https://img.shields.io/badge/MongoDB-2D6A4F?style=for-the-badge&logo=mongodb&logoColor=F5E6C8)
 
 ---
 
@@ -53,7 +53,7 @@ Also, I love digging into history, reading about human behavior and personal gro
 | Project | Description | Stack |
 |---|---|---|
 | Human Rights RAG Chatbot | Semantic search over legal documents using retrieval-augmented generation | Python, LangChain, ChromaDB, HuggingFace |
-| NLP Classification — Covid-19 | Text classification model trained on Covid-19 posts from X | Python, scikit-learn, NLP |
+| NLP Classification, Covid-19 | Text classification model trained on Covid-19 posts from X | Python, scikit-learn, NLP |
 | Skincare Advisor | App providing personalized skincare routine recommendations | Python, React |
 | Champions League Dashboard | Visualization of player and team performance during the Champions League | Python, Plotly, React |
 | E-commerce App | Full e-commerce platform including payment integration | Django, React, PostgreSQL |
@@ -64,20 +64,28 @@ Also, I love digging into history, reading about human behavior and personal gro
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soraya-21&theme=merko&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soraya-21&show_icons=true&theme=dracula&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraya-21&layout=compact&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soraya-21&show_icons=true&theme=merko&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraya-21&layout=compact&theme=merko" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soraya-21&theme=dracula" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soraya-21&theme=merko" width="97%" />
 </p>
 
 ---
 
 ## Contact
 
-<a href="mailto:sorayacodo4@gmail.com"><img src="https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/soraya-codo-537b7b195"><img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://sorayaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6272A4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:sorayacodo4@gmail.com"><img src="https://img.shields.io/badge/Email-1B4332?style=for-the-badge&logo=gmail&logoColor=F5E6C8" /></a>
+<a href="https://www.linkedin.com/in/soraya-codo-537b7b195"><img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=F5E6C8" /></a>
+<a href="https://sorayaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F5E6C8?style=for-the-badge&logo=netlify&logoColor=1B4332" /></a>
