@@ -69,14 +69,6 @@ Also, I love digging into history, reading about human behavior and personal gro
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soraya-21&theme=merko&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
