@@ -8,7 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://sorayaportfolio.netlify.app/"><strong>Visit my Portfolio</strong></a> and don't miss the <a href="https://sorayaportfolio.netlify.app/side-quests"><strong>Side Quests</strong></a> page for some fun experiments !<br><br>
+  <a href="https://sorayaportfolio.netlify.app/"><strong>Visit my Portfolio</strong></a> and don't miss the <a href="https://sorayaportfolio.netlify.app/side-quests"><strong>Side Quests</strong></a> page for some fun experiments !<br>
+  Some of my projects can also be found on my <a href="https://gitlab.com/Soraya_Anais"><strong>GitLab</strong></a>.<br><br>
+  <a href="mailto:sorayacodo4@gmail.com"><img src="https://img.shields.io/badge/Email-2D6A4F?style=for-the-badge&logo=gmail&logoColor=F5E6C8" /></a>
+  <a href="https://www.linkedin.com/in/soraya-codo-537b7b195"><img src="https://img.shields.io/badge/LinkedIn-F5E6C8?style=for-the-badge&logo=linkedin&logoColor=1B4332" /></a>
+  <a href="https://gitlab.com/Soraya_Anais"><img src="https://img.shields.io/badge/GitLab-2D6A4F?style=for-the-badge&logo=gitlab&logoColor=F5E6C8" /></a>
+  <a href="https://sorayaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F5E6C8?style=for-the-badge&logo=netlify&logoColor=1B4332" /></a>
 </p>
 
 ---
@@ -88,4 +93,5 @@ Also, I love digging into history, reading about human behavior and personal gro
 
 <a href="mailto:sorayacodo4@gmail.com"><img src="https://img.shields.io/badge/Email-1B4332?style=for-the-badge&logo=gmail&logoColor=F5E6C8" /></a>
 <a href="https://www.linkedin.com/in/soraya-codo-537b7b195"><img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=F5E6C8" /></a>
+<a href="https://gitlab.com/Soraya_Anais"><img src="https://img.shields.io/badge/GitLab-F5E6C8?style=for-the-badge&logo=gitlab&logoColor=1B4332" /></a>
 <a href="https://sorayaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F5E6C8?style=for-the-badge&logo=netlify&logoColor=1B4332" /></a>
