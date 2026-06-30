@@ -70,11 +70,6 @@ Also, I love digging into history, reading about human behavior and personal gro
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soraya-21&show_icons=true&theme=merko&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraya-21&layout=compact&theme=merko" width="48%" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soraya-21&theme=merko" width="97%" />
 </p>
